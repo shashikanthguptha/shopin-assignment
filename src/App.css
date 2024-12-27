@@ -1,0 +1,14 @@
+body{
+  background-color: var(--sk-body-background-color, #fff);
+  color: var(--sk-body-text-color, #1d1d1f);
+  font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -.022em;
+  line-height: 1.4705882353;
+}
+nav .logo-img{
+  height: 150px;
+  width: 150px;
+}
